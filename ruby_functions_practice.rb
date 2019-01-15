@@ -13,3 +13,7 @@ end
 def multiply (number5, number6)
   return number5 * number6
 end
+
+def divide (number7, number8)
+  return number7 / number8
+end
