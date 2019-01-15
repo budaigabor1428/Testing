@@ -9,3 +9,7 @@ end
 def subtract (number3, number4)
   return number3 - number4
 end
+
+def multiply (number5, number6)
+  return number5 * number6
+end
